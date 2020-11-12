@@ -1,3 +1,3 @@
 # Predicting-Boston-House-Prices-Using-ANN
 
-[Article Link](http://recaicansiz.com/2020/05/10/predicting-boston-house-prices-using-ann/ "Article Link")
+[Article Link](http://recaicansiz.com/predicting-boston-house-prices-using-ann/ "Article Link")
